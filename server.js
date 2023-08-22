@@ -32,5 +32,5 @@ app.get('/', async (req, res) => {
   }
 })
 
-app.listen(process.env.PORT)
-// app.listen(3000)
+// app.listen(process.env.PORT)
+app.listen(3000)
